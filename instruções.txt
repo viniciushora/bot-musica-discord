@@ -1,0 +1,33 @@
+Quando for usar pela primeira vez:
+
+1 - Crie um bot.
+Siga esse tutorial do módulo 3 até a parte de copiar o token.
+https://github.com/viniciushora/persona-bot/blob/main/guias/Guia%20de%20Instala%C3%A7%C3%A3o%20do%20PersonaBot.md
+
+2- Copie o token no arquivo token.txt sem espaço no final e sem enter.
+
+3- Baixe a última versão do python.
+https://www.python.org/downloads/
+
+4- Abra o CMD na pasta do FuckYoutubeBot. Escreva cmd na parte superior, onde fica o caminho de pastas até a pasta do bot.
+
+5- No cmd escreva: pip install -r requirements.txt --user
+
+6- Para ligar o bot basta escrever o comando: python Main.py
+
+7- Para desligá-lo basta fechar o cmd.
+
+Depois de "instalar":
+
+Basta fazer os passos 4 e 6 na sequência
+
+Lembre-se de apagar constantemente as músicas na pasta downloads para não ocupar muito espaço
+
+Comandos:
+-play
+-pause
+-resume
+-queue
+-dc
+
+Enjoe seu novo bot de música pirata UwU
